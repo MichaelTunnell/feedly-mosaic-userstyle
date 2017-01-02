@@ -12,4 +12,48 @@ Released: November 16th, 2014
 
 [Changelog](CHANGELOG.md) | [RSS Feed](https://github.com/MichaelTunnell/feedly-mosaic-userstyle/releases.atom)
 
-<iframe allowfullscreen="" src="//www.youtube.com/embed/htMBGpLMZFg?rel=0" width="512" height="288" frameborder="0"></iframe>
+[![](https://i.ytimg.com/vi/htMBGpLMZFg/maxresdefault.jpg)](https://www.youtube.com/watch?v=htMBGpLMZFg)
+
+
+<table style="width: 526px;" cellspacing="0" cellpadding="0" border="1" align="center">
+    <tbody>
+        <tr>
+            <td style="border-color: rgb(9, 9, 9);">
+                &nbsp;</td>
+            <th style="background-color: rgb(242, 161, 2); text-align: center; border-color: rgb(102, 102, 102);">
+                <span style="color:#000000;">Before My Userstyle (Cards)</span></th>
+            <th style="background-color: rgb(242, 161, 2); text-align: center; border-color: rgb(102, 102, 102);">
+                <span style="color:#000000;">After My Userstyle (Mosaic)</span></th>
+        </tr>
+        <tr>
+            <td style="background-color: rgb(41, 41, 41); border-color: rgb(102, 102, 102);">
+                <span style="color: rgb(255, 255, 255);">Item Thumbnails</span></td>
+            <td style="text-align: center; background-color: rgb(57, 57, 57); border-color: rgb(102, 102, 102);">
+                <p>
+                    <span style="color: rgb(255, 255, 255);">6</span></p>
+            </td>
+            <td style="text-align: center; background-color: rgb(57, 57, 57); border-color: rgb(102, 102, 102);">
+                <span style="color: rgb(255, 255, 255);"><strong>12+ (20+ via Responsive)</strong></span></td>
+        </tr>
+        <tr>
+            <td style="background-color: rgb(41, 41, 41); border-color: rgb(102, 102, 102);">
+                <span style="color: rgb(255, 255, 255);">Mark as Read</span></td>
+            <td style="text-align: center; background-color: rgb(57, 57, 57); border-color: rgb(102, 102, 102);">
+                <span style="color: rgb(255, 255, 255);">Link (visible as of v14.0.477)</span></td>
+            <td style="text-align: center; background-color: rgb(57, 57, 57); border-color: rgb(102, 102, 102);">
+                <p style="text-align: center;">
+                    <span style="color: rgb(255, 255, 255);"><strong>Icon (only when needed)</strong></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: rgb(41, 41, 41); border-color: rgb(102, 102, 102);">
+                <span style="color: rgb(255, 255, 255);">Save for Later</span></td>
+            <td style="text-align: center; background-color: rgb(57, 57, 57); border-color: rgb(102, 102, 102);">
+                <span style="color: rgb(255, 255, 255);">Link (visible as of v14.0.477)</span></td>
+            <td style="text-align: center; background-color: rgb(57, 57, 57); border-color: rgb(102, 102, 102);">
+                <p style="text-align: center;">
+                    <span style="color: rgb(255, 255, 255);"><strong>Icon (only when needed)</strong></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
